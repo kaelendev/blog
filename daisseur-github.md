@@ -2,4 +2,4 @@
 [title]: <> (daisseur - GitHub)
 [tags]: <> (github, profile, developer, daisseur, git, skills)
 [mediaUrl]: <> (https://github.com/user-attachments/assets/7e5c1cba-7b38-44c3-af6e-4c9af089e247)
-[gitRedirect]: <> (https://raw.githubusercontent.com/daisseur/daisseur/refs/heads/main/README.md)
+[gitRedirect]: <> (https://raw.githubusercontent.com/kaelendev/kaelendev/refs/heads/main/README.md)
